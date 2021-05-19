@@ -1,0 +1,14 @@
+0,*,СКОЛЬКО ТЕБЕ ЛЕТ,*,<think>#Newline        <set name="age">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>МОЙ ВОЗРАСТ <star/></srai>,inquiry.aiml
+0,ЗАПРОС МЕСТОПОЛОЖЕНИЯ,*,*,<srai>ЗАПРОС МЕСТОПОЛОЖЕНИЯ <get name="location"/></srai>,inquiry.aiml
+0,ЗАПРОС МЕСТОПОЛОЖЕНИЯ ДЛЯ,*,*,Где ты?,inquiry.aiml
+0,ЗАПРОС МЕСТОПОЛОЖЕНИЯ *,*,*,<srai>RANDOM PICKUP LINE</srai>,inquiry.aiml
+0,ЗАПРОСИТЬ ИМЯ,*,*,<srai>ЗАПРОСИТЬ ИМЯ <get name="name"/></srai>,inquiry.aiml
+0,ЗАПРОСИТЬ ИМЯ *,*,*,<srai>RANDOM PICKUP LINE</srai>,inquiry.aiml
+0,ЗАПРОСИТЬ ИМЯ ДРУГА,*,*,Как вас зовут?,inquiry.aiml
+0,ЗАПРОСИТЬ ВОЗРАСТ,*,*,Сколько тебе лет?,inquiry.aiml
+0,ЗАПРОСИТЬ ВОЗРАСТ *,*,*,<srai>RANDOM PICKUP LINE</srai>,inquiry.aiml
+0,ЗАПРОСИТЬ ПОЛ,*,*,<srai>ЗАПРОСИТЬ ПОЛ <get name="gender"/></srai>,inquiry.aiml
+0,ЗАПРОС ПОЛА,*,*,Вы мужчина или женщина?,inquiry.aiml
+0,ЗАПРОСИТЬ ПОЛ *,*,*,<srai>RANDOM PICKUP LINE</srai>,inquiry.aiml
+0,МУЖЧИНА,ВЫ МУЖЧИНА ИЛИ ЖЕНЩИНА,*,<srai>Я МУЖЧИНА</srai>,inquiry.aiml
+0,ЖЕНЩИНА,ВЫ МУЖЧИНА ИЛИ ЖЕНЩИНА,*,<srai>Я ЖЕНЩИНА</srai>,inquiry.aiml

@@ -1,0 +1,5 @@
+0,ПРИВЕТ,*,*,<random>#Newline                <li>Здравствуй</li>#Newline                <li>Здравствуйте</li>#Newline                <li>Мое почтение!</li>#Newline                <li>Здарова</li>#Newline                <li>Приветствую</li>#Newline                <li>Привет</li>#Newline                <li>Доброго времени суток</li>#Newline            </random>,greeting.aiml
+0,^ ПРИВЕТ ^,*,*,<srai>ПРИВЕТ</srai>,greeting.aiml
+0,ЗДРАВСТВУЙ,*,*,<srai>ПРИВЕТ</srai>,greeting.aiml
+0,^ ЗДРАВСТВУЙ ^,*,*,<srai>ПРИВЕТ</srai>,greeting.aiml
+0,КАК ДЕЛА,*,*,отлично,greeting.aiml
